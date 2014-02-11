@@ -8,9 +8,8 @@ All the Knowledge shared will be Sunnah proof, ie no sources will be shared if i
 
 - Quran
 - Hadith
+- Prophets
 - Scholars
-- Quotes
-- Knowledge Sources
 
 Along with the above, enable access to the shared data's such as:
 
