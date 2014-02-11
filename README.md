@@ -1,4 +1,4 @@
-Islamic Knowledge
+Islamic Knowledge Data Centre
 =====
 
 The Aim of this project is to enable a core data centre that enables API access to all Islamic Knowledge. All information will be added if its from key sources. Data will be reviewed and added legitimately. All will be FREE, no ads or sponsors. This is an independent project, participants are welcome but strictly authenticated data will be allowed. We will all be questioned for our actions starting with me, so no favours, exceptions on data source/centres.
